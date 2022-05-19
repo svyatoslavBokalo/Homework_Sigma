@@ -64,11 +64,50 @@ namespace HomeWork2_ProductAndMatrix
             sr.Close();
         }
 
-  
-        static public void JustMeatProduct(Buy buy)
+        public void Add(Product product)
         {
-            Buy buy1 = new Buy();
-            buy1 = buy.JustProductOfName("meat");
+            products.Add(product);
+        }
+
+        public Storage JustProductOfName(string nameProduct)
+        {
+            Storage storage = new Storage();
+
+            List<Product> products1 = products.Where(el => el.Name.ToLower() == nameProduct.ToLower()).ToList();
+            foreach(Product product in products1)
+            {
+                storage.Add(product);   
+            }
+
+            return storage;
+        }
+
+        public void PriceChange(double perCent)
+        {
+            foreach(Product product in products)
+            {
+                product.Price = product.PriceChange(perCent);
+            }
+        }
+
+        public Product this[int i]
+        {
+            get
+            {
+                if (i < 0 || i >= products.Count)
+                {
+                    throw new ArgumentOutOfRangeException("inccorect number for index of list");
+                }
+                return products[i];
+            }
+            set
+            {
+                if (i < 0 || i >= products.Count)
+                {
+                    throw new ArgumentOutOfRangeException("inccorect number for index of list");
+                }
+                this.products[i] = value;
+            }
         }
 
         public override string? ToString()

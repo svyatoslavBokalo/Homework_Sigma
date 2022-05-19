@@ -37,12 +37,27 @@ try
                 break;
             case 4:
                 {
-                    //buy.Add(Storage.InputFromConsole());
+                    storage.Add(UseStorage.InputFromConsole());
                 }
                 break;
             case 5:
                 {
-                    //Storage.JustMeatProduct(buy);
+                    Storage res = storage.JustProductOfName("meat");
+                    UseStorage.Show(res);
+                }
+                break;
+            case 6:
+                {
+                    Console.Write("input per cent: ");
+                    double perCent = double.Parse(Console.ReadLine());
+                    storage.PriceChange(perCent);
+                }
+                break;
+            case 7:
+                {
+                    Console.Write("input number of list: ");
+                    int n = int.Parse(Console.ReadLine());
+                    Console.WriteLine(storage[n]);
                 }
                 break;
             default:

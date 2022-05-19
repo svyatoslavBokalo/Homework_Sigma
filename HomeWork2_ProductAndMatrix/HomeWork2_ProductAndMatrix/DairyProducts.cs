@@ -25,7 +25,7 @@ namespace HomeWork2_ProductAndMatrix
             this.expirationDate = expirationDate;
         }
 
-        public double PriceChange(int perCent)
+        public override double PriceChange(double perCent)
         {
             return base.PriceChange(perCent) - this.Price / 100 * StorageConst.expirationDateDairy;
         }

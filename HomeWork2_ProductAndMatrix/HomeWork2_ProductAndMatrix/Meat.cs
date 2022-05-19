@@ -17,21 +17,11 @@ namespace HomeWork2_ProductAndMatrix
             this.typeOfMeat = TypeOfMeat.Beef;
         }
 
-        //public Meat(Product product, string categoryOfMeat, string typeOfMeat)
-        //{
-        //    this.product = product;
-        //    this.categoryOfMeat = categoryOfMeat;
-        //    this.typeOfMeat = typeOfMeat;
-        //}
-
         public Meat(double price, double weight, Category categoryOfMeat, TypeOfMeat typeOfMeat) :base("meat", price, weight)
         {
             this.categoryOfMeat = categoryOfMeat;
             this.typeOfMeat = typeOfMeat;
         }
-
-        //public string CategoryOfMeat { get => categoryOfMeat; set => categoryOfMeat = value; }
-        //public string ViewOfMeat { get => typeOfMeat; set => typeOfMeat = value; }
 
         public override bool Equals(object? obj)
         {
@@ -62,7 +52,7 @@ namespace HomeWork2_ProductAndMatrix
             return base.ToString() + ".\t category of meat:" + categoryOfMeat + ".\t view of meat:" + typeOfMeat;
         }
 
-        public double PriceChange(int perCent)
+        public override double PriceChange(double perCent)
         {
             if (categoryOfMeat  == Category.TopGrade)
             {

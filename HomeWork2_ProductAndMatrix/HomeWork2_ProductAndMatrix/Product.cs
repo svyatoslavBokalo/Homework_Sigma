@@ -72,7 +72,7 @@ namespace HomeWork2_ProductAndMatrix
             return "Name: " + name + ".\t" + "price = " + price + ".\t" + "weight = " + weight;
         }
 
-        public double PriceChange(double perCent)
+        public virtual double PriceChange(double perCent)
         {
             return this.Price = price - price / 100 * perCent;
         }

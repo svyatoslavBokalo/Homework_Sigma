@@ -20,6 +20,8 @@ namespace HomeWork2_ProductAndMatrix
             Console.WriteLine("3) show");
             Console.WriteLine("4) input number for сreate product");
             Console.WriteLine("5) just meat product");
+            Console.WriteLine("6) change price");
+            Console.WriteLine("7) this[int i]");
         }
 
         static public Product InputFromConsole()
@@ -43,7 +45,7 @@ namespace HomeWork2_ProductAndMatrix
                 Console.Write("input weight: ");
                 double weight = double.Parse(Console.ReadLine());
 
-                Console.Write("input category of meat: 1 - top grade\t 2- one grade\t 3- two grade");
+                Console.Write("input category of meat: topgrade,\t onegrade,\t twograde;\t");
                 Category categoryOfMeat = ServiceCategory.ChooseCategory(Console.ReadLine());
 
                 Console.Write("input view of meat: ");
