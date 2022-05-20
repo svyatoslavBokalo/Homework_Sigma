@@ -57,7 +57,7 @@ namespace HomeWork2_ProductAndMatrix
             {
                 if (value >= 0)
                 {
-                    price = value;
+                    weight = value;
                 }
                 else
                 {
@@ -98,11 +98,6 @@ namespace HomeWork2_ProductAndMatrix
             }
 
             return res;
-        }
-
-        public override int GetHashCode()
-        {
-            return base.GetHashCode();
         }
 
         public virtual void Parse(string str)

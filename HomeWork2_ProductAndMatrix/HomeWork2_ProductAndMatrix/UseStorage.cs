@@ -15,6 +15,7 @@ namespace HomeWork2_ProductAndMatrix
 
         static public void ShowMenu()
         {
+            Console.ForegroundColor = ConsoleColor.Red;
             Console.WriteLine("1) exit");
             Console.WriteLine("2) read from file");
             Console.WriteLine("3) show");
@@ -22,6 +23,7 @@ namespace HomeWork2_ProductAndMatrix
             Console.WriteLine("5) just meat product");
             Console.WriteLine("6) change price");
             Console.WriteLine("7) this[int i]");
+            Console.ForegroundColor = ConsoleColor.White;
         }
 
         static public Product InputFromConsole()

@@ -2,7 +2,7 @@
 using HomeWork2_ProductAndMatrix;
 
 Console.WriteLine("Hello, World!");
-
+//Console.BackgroundColor = ConsoleColor.Red;
 try
 {
     int number = 0;

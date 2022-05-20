@@ -49,11 +49,6 @@ namespace HomeWork2_ProductAndMatrix
             return res;
         }
 
-        public override int GetHashCode()
-        {
-            return base.GetHashCode();
-        }
-
         public override string? ToString()
         {
             return base.ToString() + ".\t expiration date:" + expirationDate; 

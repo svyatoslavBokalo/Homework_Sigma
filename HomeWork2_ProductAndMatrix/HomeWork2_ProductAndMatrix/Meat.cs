@@ -42,11 +42,6 @@ namespace HomeWork2_ProductAndMatrix
             return res;
         }
 
-        public override int GetHashCode()
-        {
-            return base.GetHashCode();
-        }
-
         public override string? ToString()
         {
             return base.ToString() + ".\t category of meat:" + categoryOfMeat + ".\t view of meat:" + typeOfMeat;
@@ -82,8 +77,8 @@ namespace HomeWork2_ProductAndMatrix
                 this.Name = mas[0].ToLower();
                 this.Price = double.Parse(mas[1]);
                 this.Weight = double.Parse(mas[2]);
-                Category category = ServiceCategory.ChooseCategory(mas[3]);
-                TypeOfMeat typeOfMeat = ServiceTypeOfMeat.CheckTypeOfMeat(mas[4]);
+                this.categoryOfMeat = ServiceCategory.ChooseCategory(mas[3]);
+                this.typeOfMeat = ServiceTypeOfMeat.CheckTypeOfMeat(mas[4]);
             }
             catch (ExceptionPrice ex)
             {
