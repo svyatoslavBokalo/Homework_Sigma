@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "CampWork1(Vector)/1.0.0": {
+        "runtime": {
+          "CampWork1(Vector).dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CampWork1(Vector)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
