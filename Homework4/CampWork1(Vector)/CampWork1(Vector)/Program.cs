@@ -34,13 +34,13 @@ using CampWork1_Vector_;
 //Console.WriteLine("Hello, World!");
 
 Console.WriteLine();
-Vector arr = new Vector(20);
-arr.RandomInitialization(1, 6);
+Vector arr = new Vector(5);
+arr.HardInitialization();
 Console.WriteLine(arr);
 
-arr.QuickSort();
-Console.WriteLine();
-Console.WriteLine(arr);
+//arr.QuickSort();
+//Console.WriteLine();
+//Console.WriteLine(arr);
 
 //Vector arr1 = new Vector(8);
 //arr1[0] = 2;

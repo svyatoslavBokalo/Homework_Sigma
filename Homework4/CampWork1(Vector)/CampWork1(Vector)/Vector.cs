@@ -42,6 +42,22 @@ namespace CampWork1_Vector_
 
         public Vector() { }
 
+        public override string ToString()
+        {
+            string str = "";
+            for (int i = 0; i < arr.Length; i++)
+            {
+                str += arr[i] + " ";
+            }
+            return str;
+        }
+
+        public void HardInitialization()
+        {
+            arr = new int[6] {24,31, 15, 20, 52, 6};
+            
+        }
+
         public void RandomInitialization(int a, int b)
         {
             Random random = new Random();
@@ -220,15 +236,6 @@ namespace CampWork1_Vector_
         public void QuickSort()
         {
             QuickSort(arr, 0, arr.Length - 1);
-        }
-        public override string ToString()
-        {
-            string str = "";
-            for (int i = 0; i < arr.Length; i++)
-            {
-                str += arr[i] + " ";
-            }
-            return str;
         }
     }
 }
