@@ -1,0 +1,3 @@
+434eat 250 40 twoGrade pork 	 || Exception: inccorect name of product 	 || date: 19.06.2022 0:58:02
+meat -434 40 twoGrade pork 	 || Exception: inccorect price of meat: -434 	 || date: 19.06.2022 0:58:02
+meat 250 40 t43434e pork 	 || Exception: inccorect catagery of meat: t43434e 	 || date: 19.06.2022 0:58:02

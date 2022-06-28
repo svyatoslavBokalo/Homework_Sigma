@@ -1,0 +1,174 @@
+434eat 250 40 twoGrade pork              || inccorect name of product                || 20.06.2022 8:35:10  
+meat -4 40 twoGrade pork                 || inccorect price of meat: -4              || 20.06.2022 8:35:10  
+434eat 250 40 twoGrade pork    || inccorect name of product           || 22.06.2022 18:18:34 
+meat -4 40 twoGrade pork       || inccorect price of meat: -4         || 22.06.2022 18:18:34 
+434eat 250 40 twoGrade pork    || inccorect name of product           || 22.06.2022 18:39:39 
+meat -4 40 twoGrade pork       || inccorect price of meat: -4         || 22.06.2022 18:39:39 
+434eat 250 40 twoGrade pork    || inccorect name of product           || 22.06.2022 19:30:34 
+meat -4 40 twoGrade pork       || inccorect price of meat: -4         || 22.06.2022 19:30:34 
+434eat 250 40 twoGrade pork    || inccorect name of product           || 22.06.2022 19:32:24 
+meat -4 40 twoGrade pork       || inccorect price of meat: -4         || 22.06.2022 19:32:24 
+434eat 250 40 twoGrade pork    || inccorect name of product           || 22.06.2022 19:32:26 
+meat -4 40 twoGrade pork       || inccorect price of meat: -4         || 22.06.2022 19:32:26 
+333t 250 40 twoGrade pork      || inccorect name of product           || 22.06.2022 19:37:01 
+Dairy -32323 150 5.05.2023     || inccorect price of dairy: -32323    || 22.06.2022 19:37:01 
+dwady 40 150 5.05.2023         || inccorect name of product           || 22.06.2022 19:37:01 
+333t 250 40 twoGrade pork      || inccorect name of product           || 22.06.2022 19:37:21 
+Dairy -32323 150 5.05.2023     || inccorect price of dairy: -32323    || 22.06.2022 19:37:21 
+dwady 40 150 5.05.2023         || inccorect name of product           || 22.06.2022 19:37:21 
+333t 250 40 twoGrade pork      || inccorect name of product           || 22.06.2022 19:40:07 
+Dairy -32323 150 5.05.2023     || inccorect price of dairy: -32323    || 22.06.2022 19:40:07 
+dwady 40 150 5.05.2023         || inccorect name of product           || 22.06.2022 19:40:07 
+434eat 250 40 twoGrade pork    || inccorect name of product           || 22.06.2022 19:40:07 
+meat -434 40 twoGrade pork     || inccorect price of meat: -434       || 22.06.2022 19:40:07 
+meat 250 40 t43434e pork       || inccorect catagery of meat: t43434e || 22.06.2022 19:40:07 
+333t 250 40 twoGrade pork      || inccorect name of product           || 22.06.2022 19:41:00 
+Dairy -32323 150 5.05.2023     || inccorect price of dairy: -32323    || 22.06.2022 19:41:00 
+dwady 40 150 5.05.2023         || inccorect name of product           || 22.06.2022 19:41:00 
+434eat 250 40 twoGrade pork    || inccorect name of product           || 22.06.2022 19:41:00 
+meat -434 40 twoGrade pork     || inccorect price of meat: -434       || 22.06.2022 19:41:00 
+meat 250 40 t43434e pork       || inccorect catagery of meat: t43434e || 22.06.2022 19:41:00 
+333t 250 40 twoGrade pork      || inccorect name of product           || 22.06.2022 19:43:27 
+Dairy -32323 150 5.05.2023     || inccorect price of dairy: -32323    || 22.06.2022 19:43:27 
+dwady 40 150 5.05.2023         || inccorect name of product           || 22.06.2022 19:43:27 
+434eat 250 40 twoGrade pork    || inccorect name of product           || 22.06.2022 19:43:27 
+meat -434 40 twoGrade pork     || inccorect price of meat: -434       || 22.06.2022 19:43:27 
+meat 250 40 t43434e pork       || inccorect catagery of meat: t43434e || 22.06.2022 19:43:27 
+333t 250 40 twoGrade pork      || inccorect name of product           || 22.06.2022 19:51:28 
+Dairy -32323 150 5.05.2023     || inccorect price of dairy: -32323    || 22.06.2022 19:51:28 
+dwady 40 150 5.05.2023         || inccorect name of product           || 22.06.2022 19:51:28 
+434eat 250 40 twoGrade pork    || inccorect name of product           || 22.06.2022 19:51:28 
+meat -434 40 twoGrade pork     || inccorect price of meat: -434       || 22.06.2022 19:51:28 
+meat 250 40 t43434e pork       || inccorect catagery of meat: t43434e || 22.06.2022 19:51:28 
+333t 250 40 twoGrade pork      || inccorect name of product           || 22.06.2022 19:53:05 
+Dairy -32323 150 5.05.2023     || inccorect price of dairy: -32323    || 22.06.2022 19:53:05 
+dwady 40 150 5.05.2023         || inccorect name of product           || 22.06.2022 19:53:05 
+434eat 250 40 twoGrade pork    || inccorect name of product           || 22.06.2022 19:53:05 
+meat -434 40 twoGrade pork     || inccorect price of meat: -434       || 22.06.2022 19:53:05 
+meat 250 40 t43434e pork       || inccorect catagery of meat: t43434e || 22.06.2022 19:53:05 
+333t 250 40 twoGrade pork      || inccorect name of product           || 22.06.2022 19:56:15 
+Dairy -32323 150 5.05.2023     || inccorect price of dairy: -32323    || 22.06.2022 19:56:15 
+dwady 40 150 5.05.2023         || inccorect name of product           || 22.06.2022 19:56:15 
+434eat 250 40 twoGrade pork    || inccorect name of product           || 22.06.2022 19:56:15 
+meat -434 40 twoGrade pork     || inccorect price of meat: -434       || 22.06.2022 19:56:15 
+meat 250 40 t43434e pork       || inccorect catagery of meat: t43434e || 22.06.2022 19:56:15 
+333t 250 40 twoGrade pork      || inccorect name of product           || 22.06.2022 19:58:45 
+Dairy -32323 150 5.05.2023     || inccorect price of dairy: -32323    || 22.06.2022 19:58:45 
+dwady 40 150 5.05.2023         || inccorect name of product           || 22.06.2022 19:58:45 
+434eat 250 40 twoGrade pork    || inccorect name of product           || 22.06.2022 19:58:45 
+meat -434 40 twoGrade pork     || inccorect price of meat: -434       || 22.06.2022 19:58:45 
+meat 250 40 t43434e pork       || inccorect catagery of meat: t43434e || 22.06.2022 19:58:45 
+333t 250 40 twoGrade pork      || inccorect name of product           || 22.06.2022 19:59:39 
+Dairy -32323 150 5.05.2023     || inccorect price of dairy: -32323    || 22.06.2022 19:59:39 
+dwady 40 150 5.05.2023         || inccorect name of product           || 22.06.2022 19:59:39 
+434eat 250 40 twoGrade pork    || inccorect name of product           || 22.06.2022 19:59:39 
+meat -434 40 twoGrade pork     || inccorect price of meat: -434       || 22.06.2022 19:59:39 
+meat 250 40 t43434e pork       || inccorect catagery of meat: t43434e || 22.06.2022 19:59:39 
+333t 250 40 twoGrade pork      || inccorect name of product           || 22.06.2022 20:03:40 
+Dairy -32323 150 5.05.2023     || inccorect price of dairy: -32323    || 22.06.2022 20:03:40 
+dwady 40 150 5.05.2023         || inccorect name of product           || 22.06.2022 20:03:40 
+434eat 250 40 twoGrade pork    || inccorect name of product           || 22.06.2022 20:03:40 
+meat -434 40 twoGrade pork     || inccorect price of meat: -434       || 22.06.2022 20:03:40 
+meat 250 40 t43434e pork       || inccorect catagery of meat: t43434e || 22.06.2022 20:03:40 
+333t 250 40 twoGrade pork      || inccorect name of product           || 22.06.2022 20:06:33 
+Dairy -32323 150 5.05.2023     || inccorect price of dairy: -32323    || 22.06.2022 20:06:33 
+dwady 40 150 5.05.2023         || inccorect name of product           || 22.06.2022 20:06:33 
+434eat 250 40 twoGrade pork    || inccorect name of product           || 22.06.2022 20:06:33 
+meat -434 40 twoGrade pork     || inccorect price of meat: -434       || 22.06.2022 20:06:33 
+meat 5 5 t43434e pork          || inccorect catagery of meat: t43434e || 22.06.2022 20:06:33 
+333t 250 40 twoGrade pork      || inccorect name of product           || 22.06.2022 20:07:28 
+Dairy -32323 150 5.05.2023     || inccorect price of dairy: -32323    || 22.06.2022 20:07:28 
+dwady 40 150 5.05.2023         || inccorect name of product           || 22.06.2022 20:07:28 
+434eat 250 40 twoGrade pork    || inccorect name of product           || 22.06.2022 20:07:28 
+meat -434 40 twoGrade pork     || inccorect price of meat: -434       || 22.06.2022 20:07:28 
+meat 5 5 t43434e pork          || inccorect catagery of meat: t43434e || 22.06.2022 20:07:28 
+333t 250 40 twoGrade pork      || inccorect name of product           || 22.06.2022 20:10:21 
+Dairy -32323 150 5.05.2023     || inccorect price of dairy: -32323    || 22.06.2022 20:10:21 
+dwady 40 150 5.05.2023         || inccorect name of product           || 22.06.2022 20:10:21 
+434eat 250 40 twoGrade pork    || inccorect name of product           || 22.06.2022 20:10:21 
+meat -434 40 twoGrade pork     || inccorect price of meat: -434       || 22.06.2022 20:10:21 
+meat 5 5 t43434e pork          || inccorect catagery of meat: t43434e || 22.06.2022 20:10:21 
+333t 250 40 twoGrade pork      || inccorect name of product           || 22.06.2022 20:11:38 
+Dairy -32323 150 5.05.2023     || inccorect price of dairy: -32323    || 22.06.2022 20:11:38 
+dwady 40 150 5.05.2023         || inccorect name of product           || 22.06.2022 20:11:38 
+434eat 250 40 twoGrade pork    || inccorect name of product           || 22.06.2022 20:11:38 
+meat -434 40 twoGrade pork     || inccorect price of meat: -434       || 22.06.2022 20:11:38 
+meat 5 5 t43434e pork          || inccorect catagery of meat: t43434e || 22.06.2022 20:11:38 
+333t 250 40 twoGrade pork      || inccorect name of product           || 22.06.2022 20:13:09 
+Dairy -32323 150 5.05.2023     || inccorect price of dairy: -32323    || 22.06.2022 20:13:09 
+dwady 40 150 5.05.2023         || inccorect name of product           || 22.06.2022 20:13:09 
+434eat 250 40 twoGrade pork    || inccorect name of product           || 22.06.2022 20:13:09 
+meat -434 40 twoGrade pork     || inccorect price of meat: -434       || 22.06.2022 20:13:09 
+meat 5 5 t43434e pork          || inccorect catagery of meat: t43434e || 22.06.2022 20:13:09 
+333t 250 40 twoGrade pork      || inccorect name of product           || 22.06.2022 20:13:24 
+Dairy -32323 150 5.05.2023     || inccorect price of dairy: -32323    || 22.06.2022 20:13:24 
+dwady 40 150 5.05.2023         || inccorect name of product           || 22.06.2022 20:13:24 
+434eat 250 40 twoGrade pork    || inccorect name of product           || 22.06.2022 20:13:24 
+meat -434 40 twoGrade pork     || inccorect price of meat: -434       || 22.06.2022 20:13:24 
+meat 5 5 t43434e pork          || inccorect catagery of meat: t43434e || 22.06.2022 20:13:24 
+333t 250 40 twoGrade pork      || inccorect name of product           || 22.06.2022 20:14:48 
+Dairy -32323 150 5.05.2023     || inccorect price of dairy: -32323    || 22.06.2022 20:14:48 
+dwady 40 150 5.05.2023         || inccorect name of product           || 22.06.2022 20:14:48 
+434eat 250 40 twoGrade pork    || inccorect name of product           || 22.06.2022 20:14:48 
+meat -434 40 twoGrade pork     || inccorect price of meat: -434       || 22.06.2022 20:14:48 
+meat 5 5 t43434e pork          || inccorect catagery of meat: t43434e || 22.06.2022 20:14:48 
+333t 250 40 twoGrade pork      || inccorect name of product           || 22.06.2022 20:16:08 
+Dairy -32323 150 5.05.2023     || inccorect price of dairy: -32323    || 22.06.2022 20:16:08 
+dwady 40 150 5.05.2023         || inccorect name of product           || 22.06.2022 20:16:08 
+434eat 250 40 twoGrade pork    || inccorect name of product           || 22.06.2022 20:16:08 
+meat -434 40 twoGrade pork     || inccorect price of meat: -434       || 22.06.2022 20:16:08 
+meat 5 5 t43434e pork          || inccorect catagery of meat: t43434e || 22.06.2022 20:16:08 
+333t 250 40 twoGrade pork      || inccorect name of product           || 22.06.2022 20:16:40 
+Dairy -32323 150 5.05.2023     || inccorect price of dairy: -32323    || 22.06.2022 20:16:40 
+dwady 40 150 5.05.2023         || inccorect name of product           || 22.06.2022 20:16:40 
+434eat 250 40 twoGrade pork    || inccorect name of product           || 22.06.2022 20:16:40 
+meat -434 40 twoGrade pork     || inccorect price of meat: -434       || 22.06.2022 20:16:40 
+meat 5 5 t43434e pork          || inccorect catagery of meat: t43434e || 22.06.2022 20:16:40 
+333t 250 40 twoGrade pork      || inccorect name of product           || 22.06.2022 20:21:57 
+Dairy -32323 150 5.05.2023     || inccorect price of dairy: -32323    || 22.06.2022 20:21:57 
+dwady 40 150 5.05.2023         || inccorect name of product           || 22.06.2022 20:21:57 
+434eat 250 40 twoGrade pork    || inccorect name of product           || 22.06.2022 20:21:57 
+meat -434 40 twoGrade pork     || inccorect price of meat: -434       || 22.06.2022 20:21:57 
+meat 5 5 t43434e pork          || inccorect catagery of meat: t43434e || 22.06.2022 20:21:57 
+333t 250 40 twoGrade pork      || inccorect name of product           || 22.06.2022 20:22:19 
+Dairy -32323 150 5.05.2023     || inccorect price of dairy: -32323    || 22.06.2022 20:22:19 
+dwady 40 150 5.05.2023         || inccorect name of product           || 22.06.2022 20:22:19 
+434eat 250 40 twoGrade pork    || inccorect name of product           || 22.06.2022 20:22:19 
+meat -434 40 twoGrade pork     || inccorect price of meat: -434       || 22.06.2022 20:22:19 
+meat 5 5 t43434e pork          || inccorect catagery of meat: t43434e || 22.06.2022 20:22:19 
+333t 250 40 twoGrade pork      || inccorect name of product           || 22.06.2022 20:22:27 
+Dairy -32323 150 5.05.2023     || inccorect price of dairy: -32323    || 22.06.2022 20:22:27 
+dwady 40 150 5.05.2023         || inccorect name of product           || 22.06.2022 20:22:27 
+434eat 250 40 twoGrade pork    || inccorect name of product           || 22.06.2022 20:22:27 
+meat -434 40 twoGrade pork     || inccorect price of meat: -434       || 22.06.2022 20:22:27 
+meat 5 5 t43434e pork          || inccorect catagery of meat: t43434e || 22.06.2022 20:22:27 
+333t 250 40 twoGrade pork      || inccorect name of product           || 22.06.2022 20:22:45 
+Dairy -32323 150 5.05.2023     || inccorect price of dairy: -32323    || 22.06.2022 20:22:45 
+dwady 40 150 5.05.2023         || inccorect name of product           || 22.06.2022 20:22:45 
+434eat 250 40 twoGrade pork    || inccorect name of product           || 22.06.2022 20:22:45 
+meat -434 40 twoGrade pork     || inccorect price of meat: -434       || 22.06.2022 20:22:45 
+meat 5 5 t43434e pork          || inccorect catagery of meat: t43434e || 22.06.2022 20:22:45 
+333t 250 40 twoGrade pork      || inccorect name of product           || 22.06.2022 20:23:05 
+Dairy -32323 150 5.05.2023     || inccorect price of dairy: -32323    || 22.06.2022 20:23:05 
+dwady 40 150 5.05.2023         || inccorect name of product           || 22.06.2022 20:23:05 
+434eat 250 40 twoGrade pork    || inccorect name of product           || 22.06.2022 20:23:05 
+meat -434 40 twoGrade pork     || inccorect price of meat: -434       || 22.06.2022 20:23:05 
+meat 5 5 t43434e pork          || inccorect catagery of meat: t43434e || 22.06.2022 20:23:05 
+333t 250 40 twoGrade pork      || inccorect name of product           || 22.06.2022 20:23:15 
+Dairy -32323 150 5.05.2023     || inccorect price of dairy: -32323    || 22.06.2022 20:23:15 
+dwady 40 150 5.05.2023         || inccorect name of product           || 22.06.2022 20:23:15 
+434eat 250 40 twoGrade pork    || inccorect name of product           || 22.06.2022 20:23:15 
+meat -434 40 twoGrade pork     || inccorect price of meat: -434       || 22.06.2022 20:23:15 
+meat 5 5 t43434e pork          || inccorect catagery of meat: t43434e || 22.06.2022 20:23:15 
+333t 250 40 twoGrade pork      || inccorect name of product           || 22.06.2022 20:29:09 
+Dairy -32323 150 5.05.2023     || inccorect price of dairy: -32323    || 22.06.2022 20:29:09 
+dwady 40 150 5.05.2023         || inccorect name of product           || 22.06.2022 20:29:09 
+434eat 250 40 twoGrade pork    || inccorect name of product           || 22.06.2022 20:29:09 
+meat -434 40 twoGrade pork     || inccorect price of meat: -434       || 22.06.2022 20:29:09 
+meat 5 5 t43434e pork          || inccorect catagery of meat: t43434e || 22.06.2022 20:29:09 
+333t 250 40 twoGrade pork      || inccorect name of product           || 22.06.2022 20:29:23 
+Dairy -32323 150 5.05.2023     || inccorect price of dairy: -32323    || 22.06.2022 20:29:23 
+dwady 40 150 5.05.2023         || inccorect name of product           || 22.06.2022 20:29:23 
+434eat 250 40 twoGrade pork    || inccorect name of product           || 22.06.2022 20:29:23 
+meat -434 40 twoGrade pork     || inccorect price of meat: -434       || 22.06.2022 20:29:23 
+meat 5 5 t43434e pork          || inccorect catagery of meat: t43434e || 22.06.2022 20:29:23 

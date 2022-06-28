@@ -1,0 +1,6 @@
+Meat 150 50 topGrade chicken
+meat 250 40 twoGrade pork
+434eat 250 40 twoGrade pork
+meat -4 40 twoGrade pork
+Dairy 40 150 5.05.2023
+dairy 20 200 20.09.2022

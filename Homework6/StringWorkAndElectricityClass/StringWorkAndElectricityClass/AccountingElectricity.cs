@@ -53,7 +53,6 @@ namespace StringWorkAndElectricityClass
 
         public void ReadFromFile(StreamReader sr) // зчитуєм з файла
         {
-            //List<Information> lst = new List<Information>();
             string line = sr.ReadLine();
             countApartment = int.Parse(line.Split(' ', StringSplitOptions.RemoveEmptyEntries)[0]);
             int quarter = int.Parse(line.Split(' ', StringSplitOptions.RemoveEmptyEntries)[0]);
@@ -61,7 +60,6 @@ namespace StringWorkAndElectricityClass
 
             try
             {
-                //Console.WriteLine(lst);
                 for (int i = 0; i < countApartment; i++)
                 {
                     line = sr.ReadLine();
@@ -77,9 +75,7 @@ namespace StringWorkAndElectricityClass
                         string date = line.Split(' ', StringSplitOptions.RemoveEmptyEntries)[4 + j * 3];
                         Information information = new Information(inputIndecator, outputIndecator, date);
                         electricity[i, j] = information;
-                        //lst.Add(information);
                     }
-                    //informations.Add(accounts, lst);
                 }
             }
             catch (IndexOutOfRangeException ex)

@@ -1,0 +1,15 @@
+C:\Users\PC\source\repos\C#\SigmaCourse\Homework8ExampleInterface\Homework8ExampleInterface\bin\Debug\net6.0\Homework8ExampleInterface.exe
+C:\Users\PC\source\repos\C#\SigmaCourse\Homework8ExampleInterface\Homework8ExampleInterface\bin\Debug\net6.0\Homework8ExampleInterface.deps.json
+C:\Users\PC\source\repos\C#\SigmaCourse\Homework8ExampleInterface\Homework8ExampleInterface\bin\Debug\net6.0\Homework8ExampleInterface.runtimeconfig.json
+C:\Users\PC\source\repos\C#\SigmaCourse\Homework8ExampleInterface\Homework8ExampleInterface\bin\Debug\net6.0\Homework8ExampleInterface.dll
+C:\Users\PC\source\repos\C#\SigmaCourse\Homework8ExampleInterface\Homework8ExampleInterface\bin\Debug\net6.0\Homework8ExampleInterface.pdb
+C:\Users\PC\source\repos\C#\SigmaCourse\Homework8ExampleInterface\Homework8ExampleInterface\obj\Debug\net6.0\Homework8ExampleInterface.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\C#\SigmaCourse\Homework8ExampleInterface\Homework8ExampleInterface\obj\Debug\net6.0\Homework8ExampleInterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\C#\SigmaCourse\Homework8ExampleInterface\Homework8ExampleInterface\obj\Debug\net6.0\Homework8ExampleInterface.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\C#\SigmaCourse\Homework8ExampleInterface\Homework8ExampleInterface\obj\Debug\net6.0\Homework8ExampleInterface.AssemblyInfo.cs
+C:\Users\PC\source\repos\C#\SigmaCourse\Homework8ExampleInterface\Homework8ExampleInterface\obj\Debug\net6.0\Homework8ExampleInterface.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\C#\SigmaCourse\Homework8ExampleInterface\Homework8ExampleInterface\obj\Debug\net6.0\Homework8ExampleInterface.dll
+C:\Users\PC\source\repos\C#\SigmaCourse\Homework8ExampleInterface\Homework8ExampleInterface\obj\Debug\net6.0\refint\Homework8ExampleInterface.dll
+C:\Users\PC\source\repos\C#\SigmaCourse\Homework8ExampleInterface\Homework8ExampleInterface\obj\Debug\net6.0\Homework8ExampleInterface.pdb
+C:\Users\PC\source\repos\C#\SigmaCourse\Homework8ExampleInterface\Homework8ExampleInterface\obj\Debug\net6.0\Homework8ExampleInterface.genruntimeconfig.cache
+C:\Users\PC\source\repos\C#\SigmaCourse\Homework8ExampleInterface\Homework8ExampleInterface\obj\Debug\net6.0\ref\Homework8ExampleInterface.dll

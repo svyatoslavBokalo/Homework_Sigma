@@ -1,0 +1,8 @@
+Meat 11 22 topGrade chicken
+meat 3 4 oneGrade pork
+434eat 250 40 twoGrade pork
+meat -434 40 twoGrade pork
+meat 5 5 t43434e pork
+Dairy 6 6 5.05.2023
+dairy 7 7 20.09.2022
+meat 8 8 twoGrade pork

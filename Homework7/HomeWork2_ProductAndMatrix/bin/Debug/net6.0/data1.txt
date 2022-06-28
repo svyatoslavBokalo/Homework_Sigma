@@ -1,0 +1,4 @@
+Meat,150,50,top grade,chicken
+meat,250,40,top grade,pig
+Dairy,40,150,50
+dairy,20,200,20

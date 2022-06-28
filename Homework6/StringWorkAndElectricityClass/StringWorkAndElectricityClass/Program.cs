@@ -11,12 +11,6 @@ Console.WriteLine("Hello, World!");
 /// </summary>
 /// 
 
-//string date = "5/06/2022";
-//var cultureInfo = new CultureInfo("uk-UA");
-//DateTime dateTime = DateTime.Parse(date, cultureInfo);
-
-//Console.WriteLine(dateTime);
-
 AccountingElectricity accounting = new AccountingElectricity();
 try
 {
@@ -31,9 +25,11 @@ try
 
     //// зберігання у файл
     //Console.Write("input file name for data storage: \t");
-    //string fileName =Console.ReadLine();
+    //string fileName = Console.ReadLine();
     //accounting.WriteToFile(fileName);
     ////
+
+
     // найбільший боржник
     Console.WriteLine(accounting.SurnameArrears());
     //
@@ -78,43 +74,4 @@ catch (InvalidTimeZoneException ex)
 catch (Exception ex)
 {
     Console.WriteLine(ex);
-}
-
-/// <summary>
-/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
-///                                     task 2
-/// </summary>
-WorkOntheString line = new WorkOntheString();
-try
-{
-    Console.ForegroundColor = ConsoleColor.Red;
-    Console.WriteLine("\t\t TASK 2 \t\t");
-    Console.ForegroundColor = ConsoleColor.Gray;
-    using (StreamReader sr = new StreamReader("dataText.txt"))
-    {
-        line = new WorkOntheString(sr);
-    }
-
-    Console.WriteLine(line);
-    Console.WriteLine();
-
-    //line.Editing();
-    //Console.WriteLine(line);
-
-    Console.WriteLine();
-    line.PrintInFileReadyText();
-
-    line.PrintTheLongestAndTheShortestWord();
-}
-catch (FileNotFoundException ex)
-{
-    Console.WriteLine(ex.Message);
-}
-catch (IndexOutOfRangeException ex)
-{
-    Console.WriteLine(ex.Message);
-}
-catch (Exception ex)
-{
-    Console.WriteLine(ex.Message);
 }

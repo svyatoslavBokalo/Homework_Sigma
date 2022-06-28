@@ -1,0 +1,25 @@
+dumplinks
+flour,750
+salt,20
+water,400
+egg,250
+potatoes,1200
+
+borsch
+potatoes,400
+water,1000
+beet,250
+oil,100
+salt,20
+cabbage,600
+meat,400
+parsley,50
+sour cream,100
+
+pancake
+milk,500
+water,250
+suger,300
+cottage cheese,250
+flour,400
+honey,150
