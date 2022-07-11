@@ -83,7 +83,7 @@ namespace Homework9
                 if (priceKurant.Keys.Contains(el))
                 {
                     //Console.WriteLine("if - yes");
-                    sum.Add(el, dictWeight[el]/1000 * priceKurant[el]);
+                    sum.Add(el, dictWeight[el] / 1000 * priceKurant[el]);
                 }
                 else
                 {

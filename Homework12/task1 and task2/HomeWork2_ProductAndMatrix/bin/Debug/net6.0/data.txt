@@ -1,0 +1,8 @@
+Meat 11 22 topGrade chicken
+meat 250 40 twoGrade pork
+333t 250 40 twoGrade pork
+Dairy -32323 150 5.05.2023
+dwady 40 150 5.05.2023
+dairy 6 6 20.09.2022
+meat 20 200 oneGrade pork
+dairy 43 260 20.11.2022

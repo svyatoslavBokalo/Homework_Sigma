@@ -1,14 +1,15 @@
-floor - 42
-salt - 50
-water - 10
-egg - 48
-potatoes - 34
-beet - 28
-oil - 64
-cabbage - 30
-meat - 144
-parsley - 25
-milk - 40
-suger - 45
-cottage cheese - 67
-honey - 175
+flour-42
+salt-50
+water-10
+egg-48
+potatoes-34
+beet-28
+oil-64
+cabbage-30
+meat-144
+parsley-25
+milk-40
+suger-45
+cottage cheese-67
+honey-175
+sour cream-32

@@ -123,7 +123,7 @@ namespace Homework9
         {
             using(StreamWriter sw = new StreamWriter(fileName, append: true))
             {
-                sw.WriteLine($"{keyProduct} - {valuePrice}");
+                sw.Write($"\n{keyProduct}-{valuePrice}");
             }
         }
     }
