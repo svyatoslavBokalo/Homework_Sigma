@@ -1,0 +1,30 @@
+C:\Users\Временный\source\repos\CassApp\CassApp\obj\Debug\net6.0\CassApp.csproj.AssemblyReference.cache
+C:\Users\Временный\source\repos\CassApp\CassApp\obj\Debug\net6.0\CassApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Временный\source\repos\CassApp\CassApp\obj\Debug\net6.0\CassApp.AssemblyInfoInputs.cache
+C:\Users\Временный\source\repos\CassApp\CassApp\obj\Debug\net6.0\CassApp.AssemblyInfo.cs
+C:\Users\Временный\source\repos\CassApp\CassApp\obj\Debug\net6.0\CassApp.csproj.CoreCompileInputs.cache
+C:\Users\Временный\source\repos\CassApp\CassApp\bin\Debug\net6.0\CassApp.exe
+C:\Users\Временный\source\repos\CassApp\CassApp\bin\Debug\net6.0\CassApp.deps.json
+C:\Users\Временный\source\repos\CassApp\CassApp\bin\Debug\net6.0\CassApp.runtimeconfig.json
+C:\Users\Временный\source\repos\CassApp\CassApp\bin\Debug\net6.0\CassApp.dll
+C:\Users\Временный\source\repos\CassApp\CassApp\bin\Debug\net6.0\CassApp.pdb
+C:\Users\Временный\source\repos\CassApp\CassApp\obj\Debug\net6.0\CassApp.dll
+C:\Users\Временный\source\repos\CassApp\CassApp\obj\Debug\net6.0\refint\CassApp.dll
+C:\Users\Временный\source\repos\CassApp\CassApp\obj\Debug\net6.0\CassApp.pdb
+C:\Users\Временный\source\repos\CassApp\CassApp\obj\Debug\net6.0\CassApp.genruntimeconfig.cache
+C:\Users\Временный\source\repos\CassApp\CassApp\obj\Debug\net6.0\ref\CassApp.dll
+C:\Users\PC\source\repos\C#\SigmaTestProject\30.06.2022 queue\CassApp\CassApp\bin\Debug\net6.0\CassApp.exe
+C:\Users\PC\source\repos\C#\SigmaTestProject\30.06.2022 queue\CassApp\CassApp\bin\Debug\net6.0\CassApp.deps.json
+C:\Users\PC\source\repos\C#\SigmaTestProject\30.06.2022 queue\CassApp\CassApp\bin\Debug\net6.0\CassApp.runtimeconfig.json
+C:\Users\PC\source\repos\C#\SigmaTestProject\30.06.2022 queue\CassApp\CassApp\bin\Debug\net6.0\CassApp.dll
+C:\Users\PC\source\repos\C#\SigmaTestProject\30.06.2022 queue\CassApp\CassApp\bin\Debug\net6.0\CassApp.pdb
+C:\Users\PC\source\repos\C#\SigmaTestProject\30.06.2022 queue\CassApp\CassApp\obj\Debug\net6.0\CassApp.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\C#\SigmaTestProject\30.06.2022 queue\CassApp\CassApp\obj\Debug\net6.0\CassApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\C#\SigmaTestProject\30.06.2022 queue\CassApp\CassApp\obj\Debug\net6.0\CassApp.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\C#\SigmaTestProject\30.06.2022 queue\CassApp\CassApp\obj\Debug\net6.0\CassApp.AssemblyInfo.cs
+C:\Users\PC\source\repos\C#\SigmaTestProject\30.06.2022 queue\CassApp\CassApp\obj\Debug\net6.0\CassApp.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\C#\SigmaTestProject\30.06.2022 queue\CassApp\CassApp\obj\Debug\net6.0\CassApp.dll
+C:\Users\PC\source\repos\C#\SigmaTestProject\30.06.2022 queue\CassApp\CassApp\obj\Debug\net6.0\refint\CassApp.dll
+C:\Users\PC\source\repos\C#\SigmaTestProject\30.06.2022 queue\CassApp\CassApp\obj\Debug\net6.0\CassApp.pdb
+C:\Users\PC\source\repos\C#\SigmaTestProject\30.06.2022 queue\CassApp\CassApp\obj\Debug\net6.0\CassApp.genruntimeconfig.cache
+C:\Users\PC\source\repos\C#\SigmaTestProject\30.06.2022 queue\CassApp\CassApp\obj\Debug\net6.0\ref\CassApp.dll

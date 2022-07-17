@@ -1,0 +1,322 @@
+[[status3]] - name0 26 0,932 30
+[[status17]] - name1 18 1,097 30
+[[status1]] - name2 22 13,835 30
+[[status16]] - name3 26 0,55 30
+[[status4]] - name4 16 17,966 30
+[[status10]] - name5 29 11,87 30
+[[status10]] - name6 35 16,939 30
+Cassa_2: [[status17]] - name1 18 1,097 0 has been observed
+[[status8]] - name7 24 4,86 30
+Cassa_1: [[status1]] - name2 22 13,835 0 has been observed
+[[status4]] - name8 32 17,924 30
+Cassa_3: [[status16]] - name3 26 0,55 0 has been observed
+[[status1]] - name9 21 16,823 30
+[[status23]] - name10 19 13,559 30
+[[status24]] - name11 32 7,645 30
+[[status14]] - name12 38 9,488 30
+[[status1]] - name13 38 2,71 30
+Cassa_1: [[status10]] - name6 35 16,939 0 has been observed
+[[status23]] - name14 22 0,962 30
+[[status17]] - name15 22 7,801 30
+[[status19]] - name16 21 1,151 30
+[[status17]] - name17 32 7,263 30
+Cassa_2: [[status14]] - name12 38 9,488 0 has been observed
+[[status1]] - name18 34 0,906 30
+Cassa_3: [[status1]] - name13 38 2,71 0 has been observed
+[[status4]] - name19 35 7,106 30
+Cassa_1: [[status10]] - name5 29 11,87 0 has been observed
+[[status13]] - name20 16 11,092 30
+Cassa_3: [[status1]] - name9 21 16,823 0 has been observed
+[[status7]] - name21 35 9,229 30
+[[status1]] - name22 32 22,046 30
+[[status3]] - name23 27 21,396 30
+Cassa_2: [[status1]] - name18 34 0,906 0 has been observed
+[[status2]] - name24 29 1,968 30
+Cassa_3: [[status19]] - name16 21 1,151 0 has been observed
+Cassa_1: [[status1]] - name22 32 22,046 0 has been observed
+Cassa_2: [[status17]] - name17 32 7,263 0 has been observed
+Cassa_1: [[status13]] - name20 16 11,092 0 has been observed
+Cassa_3: [[status23]] - name10 19 13,559 0 has been observed
+Cassa_2: [[status2]] - name24 29 1,968 0 has been observed
+Cassa_3: [[status3]] - name0 26 0,932 0 has been observed
+Cassa_1: [[status17]] - name15 22 7,801 0 has been observed
+Cassa_2: [[status24]] - name11 32 7,645 0 has been observed
+Cassa_3: [[status4]] - name19 35 7,106 0 has been observed
+Cassa_2: [[status4]] - name4 16 17,966 0 has been observed
+Cassa_1: [[status23]] - name14 22 0,962 0 has been observed
+Cassa_3: [[status7]] - name21 35 9,229 0 has been observed
+Cassa_2: [[status8]] - name7 24 4,86 0 has been observed
+Cassa_1: [[status3]] - name23 27 21,396 0 has been observed
+Cassa_1: [[status4]] - name8 32 17,924 0 has been observed
+[[status8]] - name0 25 8,862 60
+[[status20]] - name1 17 10,506 60
+[[status12]] - name2 25 3,878 60
+[[status16]] - name3 24 11,786 60
+[[status19]] - name4 33 2,518 60
+[[status22]] - name5 17 17,317 60
+[[status23]] - name6 30 14,074 60
+[[status13]] - name7 37 4,45 60
+[[status21]] - name8 26 18,398 60
+[[status19]] - name9 38 22,13 60
+[[status5]] - name10 26 23,732 60
+[[status1]] - name11 29 24,708 60
+[[status19]] - name12 21 8,705 60
+[[status14]] - name13 34 13,479 60
+Cassa_1: [[status12]] - name2 25 3,878 0 has been observed
+[[status5]] - name14 38 18,343 60
+[[status5]] - name15 24 16,149 60
+[[status8]] - name16 16 3,472 60
+[[status24]] - name17 16 23,483 60
+[[status20]] - name18 31 23,325 60
+Cassa_3: [[status13]] - name7 37 4,45 0 has been observed
+[[status6]] - name19 21 7,071 60
+[[status1]] - name20 34 7,033 60
+[[status4]] - name21 20 23,694 60
+[[status2]] - name22 22 23,485 60
+[[status22]] - name23 34 6,383 60
+[[status5]] - name24 18 12,222 60
+Cassa_1: [[status19]] - name9 38 22,13 0 has been observed
+[[status1]] - name0 25 8,862 60
+[[status20]] - name1 17 10,506 60
+[[status12]] - name2 25 3,878 60
+[[status1]] - name3 24 11,786 60
+[[status19]] - name4 33 2,518 60
+[[status1]] - name5 17 17,317 60
+[[status23]] - name6 30 14,074 60
+[[status13]] - name7 37 4,45 60
+[[status21]] - name8 26 18,398 60
+[[status1]] - name9 38 22,13 60
+[[status5]] - name10 26 23,732 60
+[[status1]] - name11 29 24,708 60
+[[status1]] - name12 21 8,705 60
+[[status14]] - name13 34 13,479 60
+[[status5]] - name14 38 18,343 60
+[[status1]] - name15 24 16,149 60
+[[status8]] - name16 16 3,472 60
+[[status1]] - name17 16 23,483 60
+[[status20]] - name18 31 23,325 60
+Cassa_3: [[status13]] - name7 37 4,45 0 has been observed
+[[status6]] - name19 21 7,071 60
+[[status1]] - name20 34 7,033 60
+Cassa_1: [[status1]] - name9 38 22,13 0 has been observed
+[[status1]] - name21 20 23,694 60
+[[status2]] - name22 22 23,485 60
+Cassa_2: [[status1]] - name11 29 24,708 0 has been observed
+[[status22]] - name23 34 6,383 60
+Cassa_2: [[status1]] - name0 25 8,862 0 has been observed
+[[status1]] - name24 18 12,222 60
+Cassa_1: [[status1]] - name5 17 17,317 0 has been observed
+Cassa_3: [[status1]] - name20 34 7,033 0 has been observed
+Cassa_2: [[status1]] - name3 24 11,786 0 has been observed
+Cassa_1: [[status1]] - name17 16 23,483 0 has been observed
+Cassa_3: [[status14]] - name13 34 13,479 0 has been observed
+Cassa_2: [[status1]] - name15 24 16,149 0 has been observed
+Cassa_1: [[status12]] - name2 25 3,878 0 has been observed
+Cassa_3: [[status19]] - name4 33 2,518 0 has been observed
+Cassa_2: [[status1]] - name12 21 8,705 0 has been observed
+Cassa_3: [[status20]] - name1 17 10,506 0 has been observed
+Cassa_1: [[status2]] - name22 22 23,485 0 has been observed
+Cassa_2: [[status1]] - name21 20 23,694 0 has been observed
+Cassa_3: [[status5]] - name10 26 23,732 0 has been observed
+Cassa_1: [[status20]] - name18 31 23,325 0 has been observed
+Cassa_2: [[status1]] - name24 18 12,222 0 has been observed
+Cassa_3: [[status6]] - name19 21 7,071 0 has been observed
+Cassa_1: [[status21]] - name8 26 18,398 0 has been observed
+Cassa_2: [[status22]] - name23 34 6,383 0 has been observed
+Cassa_3: [[status8]] - name16 16 3,472 0 has been observed
+Cassa_1: [[status5]] - name14 38 18,343 0 has been observed
+Cassa_2: [[status23]] - name6 30 14,074 0 has been observed
+[[status1]] - name0 25 8,862 60
+[[status20]] - name1 17 10,506 60
+[[status12]] - name2 25 3,878 60
+[[status1]] - name3 24 11,786 60
+[[status19]] - name4 33 2,518 60
+[[status1]] - name5 17 17,317 60
+[[status23]] - name6 30 14,074 60
+[[status13]] - name7 37 4,45 60
+[[status21]] - name8 26 18,398 60
+[[status1]] - name9 38 22,13 60
+[[status5]] - name10 26 23,732 60
+[[status1]] - name11 29 24,708 60
+[[status1]] - name12 21 8,705 60
+[[status14]] - name13 34 13,479 60
+[[status5]] - name14 38 18,343 60
+[[status1]] - name15 24 16,149 60
+[[status8]] - name16 16 3,472 60
+[[status1]] - name17 16 23,483 60
+[[status20]] - name18 31 23,325 60
+Cassa_3: [[status13]] - name7 37 4,45 0 has been observed
+[[status6]] - name19 21 7,071 60
+[[status1]] - name20 34 7,033 60
+Cassa_1: [[status1]] - name9 38 22,13 0 has been observed
+[[status1]] - name21 20 23,694 60
+[[status2]] - name22 22 23,485 60
+Cassa_2: [[status1]] - name11 29 24,708 0 has been observed
+[[status22]] - name23 34 6,383 60
+Cassa_2: [[status1]] - name0 25 8,862 0 has been observed
+[[status1]] - name24 18 12,222 60
+Cassa_1: [[status1]] - name5 17 17,317 0 has been observed
+Cassa_3: [[status1]] - name20 34 7,033 0 has been observed
+Cassa_2: [[status1]] - name3 24 11,786 0 has been observed
+Cassa_1: [[status1]] - name17 16 23,483 0 has been observed
+Cassa_3: [[status14]] - name13 34 13,479 0 has been observed
+Cassa_2: [[status1]] - name15 24 16,149 0 has been observed
+Cassa_1: [[status12]] - name2 25 3,878 0 has been observed
+Cassa_3: [[status19]] - name4 33 2,518 0 has been observed
+Cassa_2: [[status1]] - name12 21 8,705 0 has been observed
+Cassa_3: [[status20]] - name1 17 10,506 0 has been observed
+Cassa_1: [[status2]] - name22 22 23,485 0 has been observed
+Cassa_2: [[status1]] - name21 20 23,694 0 has been observed
+Cassa_3: [[status5]] - name10 26 23,732 0 has been observed
+Cassa_1: [[status20]] - name18 31 23,325 0 has been observed
+[[status1]] - name0 25 8,862 60
+[[status20]] - name1 17 10,506 60
+[[status12]] - name2 25 3,878 60
+[[status1]] - name3 24 11,786 60
+[[status19]] - name4 33 2,518 60
+[[status1]] - name5 17 17,317 60
+[[status23]] - name6 30 14,074 60
+[[status13]] - name7 37 4,45 60
+[[status21]] - name8 26 18,398 60
+[[status1]] - name9 38 22,13 60
+[[status5]] - name10 26 23,732 60
+[[status1]] - name11 29 24,708 60
+[[status1]] - name12 21 8,705 60
+[[status14]] - name13 34 13,479 60
+[[status5]] - name14 38 18,343 60
+[[status1]] - name15 24 16,149 60
+[[status1]] - name0 25 8,862 60
+[[status20]] - name1 17 10,506 60
+[[status12]] - name2 25 3,878 60
+[[status16]] - name3 24 11,786 60
+[[status19]] - name4 33 2,518 60
+[[status17]] - name5 17 17,317 60
+[[status23]] - name6 30 14,074 60
+[[status13]] - name7 37 4,45 60
+[[status21]] - name8 26 18,398 60
+[[status1]] - name9 38 22,13 60
+[[status5]] - name10 26 23,732 60
+[[status16]] - name11 29 24,708 60
+Cassa_2: [[status1]] - name0 25 8,862 0 has been observed
+[[status19]] - name12 21 8,705 60
+[[status14]] - name13 34 13,479 60
+[[status5]] - name14 38 18,343 60
+[[status14]] - name15 24 16,149 60
+[[status8]] - name16 16 3,472 60
+[[status1]] - name17 16 23,483 60
+[[status20]] - name18 31 23,325 60
+Cassa_3: [[status13]] - name7 37 4,45 0 has been observed
+[[status6]] - name19 21 7,071 60
+[[status1]] - name20 34 7,033 60
+Cassa_1: [[status1]] - name9 38 22,13 0 has been observed
+[[status11]] - name21 20 23,694 60
+[[status2]] - name22 22 23,485 60
+[[status22]] - name23 34 6,383 60
+[[status14]] - name24 18 12,222 60
+Cassa_1: [[status1]] - name20 34 7,033 0 has been observed
+Cassa_2: [[status14]] - name13 34 13,479 0 has been observed
+Cassa_3: [[status11]] - name21 20 23,694 0 has been observed
+Cassa_1: [[status1]] - name17 16 23,483 0 has been observed
+Cassa_2: [[status16]] - name3 24 11,786 0 has been observed
+Cassa_3: [[status16]] - name11 29 24,708 0 has been observed
+Cassa_1: [[status12]] - name2 25 3,878 0 has been observed
+Cassa_2: [[status2]] - name22 22 23,485 0 has been observed
+Cassa_3: [[status17]] - name5 17 17,317 0 has been observed
+Cassa_1: [[status14]] - name15 24 16,149 0 has been observed
+Cassa_1: [[status19]] - name4 33 2,518 0 has been observed
+Cassa_3: [[status20]] - name1 17 10,506 0 has been observed
+Cassa_2: [[status20]] - name18 31 23,325 0 has been observed
+Cassa_1: [[status5]] - name10 26 23,732 0 has been observed
+Cassa_3: [[status22]] - name23 34 6,383 0 has been observed
+Cassa_2: [[status21]] - name8 26 18,398 0 has been observed
+Cassa_3: [[status6]] - name19 21 7,071 0 has been observed
+Cassa_2: [[status23]] - name6 30 14,074 0 has been observed
+Cassa_3: [[status8]] - name16 16 3,472 0 has been observed
+[[status1]] - name0 25 8,862 60
+[[status20]] - name1 17 10,506 60
+[[status12]] - name2 25 3,878 60
+[[status16]] - name3 24 11,786 60
+[[status19]] - name4 33 2,518 60
+[[status1]] - name5 17 17,317 60
+[[status23]] - name6 30 14,074 60
+[[status13]] - name7 37 4,45 60
+[[status1]] - name8 26 18,398 60
+[[status1]] - name9 38 22,13 60
+[[status5]] - name10 26 23,732 60
+[[status16]] - name11 29 24,708 60
+Cassa_2: [[status1]] - name0 25 8,862 0 has been observed
+[[status19]] - name12 21 8,705 60
+[[status14]] - name13 34 13,479 60
+[[status5]] - name14 38 18,343 60
+[[status14]] - name15 24 16,149 60
+[[status8]] - name16 16 3,472 60
+[[status1]] - name17 16 23,483 60
+[[status20]] - name18 31 23,325 60
+Cassa_3: [[status13]] - name7 37 4,45 0 has been observed
+[[status6]] - name19 21 7,071 60
+[[status1]] - name20 34 7,033 60
+Cassa_1: [[status1]] - name9 38 22,13 0 has been observed
+[[status11]] - name21 20 23,694 60
+[[status2]] - name22 22 23,485 60
+[[status22]] - name23 34 6,383 60
+[[status14]] - name24 18 12,222 60
+Cassa_1: [[status1]] - name20 34 7,033 0 has been observed
+Cassa_3: [[status12]] - name2 25 3,878 0 has been observed
+Cassa_2: [[status11]] - name21 20 23,694 0 has been observed
+Cassa_1: [[status1]] - name8 26 18,398 0 has been observed
+Cassa_3: [[status14]] - name13 34 13,479 0 has been observed
+Cassa_2: [[status14]] - name15 24 16,149 0 has been observed
+Cassa_1: [[status1]] - name5 17 17,317 0 has been observed
+Cassa_3: [[status16]] - name11 29 24,708 0 has been observed
+Cassa_3: [[status19]] - name4 33 2,518 0 has been observed
+Cassa_1: [[status1]] - name17 16 23,483 0 has been observed
+Cassa_2: [[status16]] - name3 24 11,786 0 has been observed
+Cassa_3: [[status19]] - name12 21 8,705 0 has been observed
+Cassa_1: [[status20]] - name18 31 23,325 0 has been observed
+Cassa_2: [[status2]] - name22 22 23,485 0 has been observed
+Cassa_3: [[status5]] - name10 26 23,732 0 has been observed
+Cassa_1: [[status5]] - name14 38 18,343 0 has been observed
+Cassa_2: [[status22]] - name23 34 6,383 0 has been observed
+Cassa_3: [[status6]] - name19 21 7,071 0 has been observed
+Cassa_1: [[status8]] - name16 16 3,472 0 has been observed
+Cassa_2: [[status23]] - name6 30 14,074 0 has been observed
+[[status1]] - name0 25 8,862 60
+[[status20]] - name1 17 10,506 60
+[[status12]] - name2 25 3,878 60
+[[status16]] - name3 24 11,786 60
+[[status19]] - name4 33 2,518 60
+[[status1]] - name5 17 17,317 60
+[[status23]] - name6 30 14,074 60
+[[status13]] - name7 37 4,45 60
+[[status1]] - name8 26 18,398 60
+[[status1]] - name9 38 22,13 60
+[[status5]] - name10 26 23,732 60
+[[status16]] - name11 29 24,708 60
+[[status19]] - name12 21 8,705 60
+[[status14]] - name13 34 13,479 60
+[[status5]] - name14 38 18,343 60
+[[status14]] - name15 24 16,149 60
+[[status8]] - name16 16 3,472 60
+[[status1]] - name17 16 23,483 60
+[[status20]] - name18 31 23,325 60
+[[status6]] - name19 21 7,071 60
+[[status1]] - name20 34 7,033 60
+Cassa_1: [[status1]] - name9 38 22,13 0 has been observed
+[[status11]] - name21 20 23,694 60
+[[status2]] - name22 22 23,485 60
+[[status22]] - name23 34 6,383 60
+[[status14]] - name24 18 12,222 60
+Cassa_1: [[status1]] - name20 34 7,033 0 has been observed
+Cassa_2: [[status11]] - name21 20 23,694 0 has been observed
+Cassa_2: [[status12]] - name2 25 3,878 0 has been observed
+Cassa_1: [[status1]] - name8 26 18,398 0 has been observed
+Cassa_2: [[status13]] - name7 37 4,45 0 has been observed
+Cassa_1: [[status1]] - name0 25 8,862 0 has been observed
+Cassa_1: [[status1]] - name5 17 17,317 0 has been observed
+Cassa_2: [[status14]] - name13 34 13,479 0 has been observed
+Cassa_1: [[status16]] - name3 24 11,786 0 has been observed
+Cassa_2: [[status14]] - name24 18 12,222 0 has been observed
+Cassa_1: [[status23]] - name6 30 14,074 0 has been observed
+Cassa_2: [[status16]] - name11 29 24,708 0 has been observed
+Cassa_1: [[status8]] - name16 16 3,472 0 has been observed
+Cassa_2: [[status5]] - name14 38 18,343 0 has been observed
