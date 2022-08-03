@@ -1,0 +1,4 @@
+434eat 250 40 twoGrade pork    || inccorect name of product           || 22.06.2022 18:18:34 
+meat -4 40 twoGrade pork       || inccorect price of meat: -4         || 22.06.2022 18:18:34 
+434eat 250 40 twoGrade pork    || inccorect name of product           || 22.06.2022 18:39:39 
+meat -4 40 twoGrade pork       || inccorect price of meat: -4         || 22.06.2022 18:39:39 

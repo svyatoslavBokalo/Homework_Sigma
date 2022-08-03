@@ -12,11 +12,13 @@ namespace task3
         string formula;
         string formulaPoland;
         SortedSet<char> operations = new SortedSet<char>();
+        List<string> formulaList;
 
         public PolandRecord(string formula = "")
         {
             this.formula = formula;
             this.FormulaPoland = "";
+            this.formulaList = new List<string>();
             //this.operations.Add('+');
             //this.operations.Add('-');
             //this.operations.Add('*');
@@ -127,7 +129,18 @@ namespace task3
 
         public void CreatePolandComplete()
         {
+            Stack<string> stack = new Stack<string>();
+            string diggit = "";
 
+            for(int i = 0; i< formula.Length; i++)
+            {
+                if (char.IsDigit(formula[i]) || formula[i] == ',' || formula[i] == '.')
+                {
+                    diggit += formula[i];
+                }
+
+                //if(formula)
+            }
         }
 
         public List<string> CreateLexems()
